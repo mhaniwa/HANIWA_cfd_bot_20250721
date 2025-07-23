@@ -1,0 +1,1 @@
+{"timestamp": "2025-07-21T14:46:29.543586", "level": "INFO", "logger": "cfd_bot.core.performance_monitor", "message": "パフォーマンス監視システム初期化", "module": "logger", "function": "_log", "line": 196}
